@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://img.shields.io/badge/NACG-XWord-purple " /> </p>
+[![](https://img.shields.io/badge/NACG-XWord-purple)](http://github.com/NACG-Mohr)
 
 # XWord(赤霄剑) 红队重点攻击系统指纹探测工具
 
