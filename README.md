@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/NACG_CJanGe-XWord-purple)](http://github.com/NACG-Mohr/CJan-Ge)
+[![](https://img.shields.io/badge/NACG_CJanGe-XWord-blue)](http://github.com/NACG-Mohr/CJan-Ge)
 
 # XWord(赤霄剑) 红队重点攻击系统指纹探测工具
 
