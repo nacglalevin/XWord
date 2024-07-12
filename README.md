@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://img.shields.io/badge/NACG-XWord-purple " /> </p>
+<p align="left"> <img src="https://img.shields.io/github/license/SkylerHu/py-enum " /> </p>
 # XWord(赤霄剑) 红队重点攻击系统指纹探测工具
 
 XWord(赤霄剑)是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。XWord旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。
