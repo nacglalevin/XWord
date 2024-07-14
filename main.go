@@ -1,6 +1,6 @@
 package main
 
-import "ehole/cmd"
+import "XWord/cmd"
 
 func main() {
         cmd.Execute()
