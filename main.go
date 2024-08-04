@@ -1,3 +1,4 @@
+/* beloved/DHS*/
 package main
 
 import "XWord/cmd"
