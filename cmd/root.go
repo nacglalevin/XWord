@@ -14,7 +14,7 @@ var cfgFile string
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
         Use:   "ehole",
-        Short: "EHole是一款对资产中重点系统指纹识别的工具",
+        Short: "XWord是一款对资产中重点系统指纹识别的工具",
         Long: "\n     ______    __         ______                 \n" +
                 "    / ____/___/ /___ ____/_  __/__  ____ _____ ___ \n" +
                 "   / __/ / __  / __ `/ _ \\/ / / _ \\/ __ `/ __ `__ \\\n" +
